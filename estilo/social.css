@@ -5,7 +5,11 @@
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
-
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
 img {
     width: 100vw;
 }
